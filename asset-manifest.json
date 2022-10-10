@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-work-only-one-click-disabled/static/css/main.d43e9928.css",
+    "main.js": "/practice-work-only-one-click-disabled/static/js/main.f30d38d6.js",
+    "index.html": "/practice-work-only-one-click-disabled/index.html",
+    "main.d43e9928.css.map": "/practice-work-only-one-click-disabled/static/css/main.d43e9928.css.map",
+    "main.f30d38d6.js.map": "/practice-work-only-one-click-disabled/static/js/main.f30d38d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43e9928.css",
+    "static/js/main.f30d38d6.js"
+  ]
+}
